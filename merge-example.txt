@@ -1,0 +1,27 @@
+Git Merge Example Notes
+
+This file is created to understand how git merge works.
+
+Scenario:
+- main branch contains stable code
+- feature branch contains new changes
+- feature branch is merged into main branch
+
+Steps followed:
+1. Created a new branch called feature
+2. Added this file in feature branch
+3. Committed the changes
+4. Switched back to main branch
+5. Merged feature into main branch
+
+Key learning:
+- Always checkout the target branch before merging
+- git merge brings changes from one branch into another
+- Conflicts occur if the same file is modified in both branches
+
+Best practice:
+- Test code before merging
+- Resolve conflicts carefully
+- Use clear commit messages
+
+This document is only for Git learning and practice.
