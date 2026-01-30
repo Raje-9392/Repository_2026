@@ -1,0 +1,21 @@
+Git Practice File
+
+Name: Git Basics Practice
+Tool Used: Git with Command Prompt (CMD)
+
+Purpose of this file:
+- Practice Git add and commit
+- Understand file tracking
+- Learn Git history
+
+Steps I followed:
+1. Created a Git repository using git init
+2. Created this text file
+3. Checked status using git status
+4. Staged the file using git add
+5. Committed the file using git commit
+
+This file will be modified later
+to practice Git diff, pull, and merge.
+
+End of file.
