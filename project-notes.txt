@@ -1,0 +1,30 @@
+Project Notes – Git Practice
+
+Project Name: Git Learning Repository
+Branch Usage:
+- main       : Stable version of the project
+- Repository : Development / practice branch
+
+Purpose of this file:
+- Practice merging branches
+- Understand how files move from one branch to another
+- Learn safe Git workflow
+
+Git commands used in this project:
+- git init
+- git status
+- git add
+- git commit
+- git branch
+- git checkout
+- git merge
+- git push
+- git pull
+
+Best practices learned:
+- Always work on a separate branch
+- Never commit directly to main
+- Merge changes only after testing
+- Use meaningful commit messages
+
+This file is created for Git learning and practice only.
