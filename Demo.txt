@@ -1,0 +1,17 @@
+Git Learning Notes
+
+This is my first Git practice file.
+I am learning Git using Command Prompt (CMD).
+
+Topics I am learning:
+- What is Git
+- Git init
+- Git add
+- Git commit
+- Git status
+- Git push and pull
+
+Git is used to track changes in files.
+GitHub is used to store code online.
+
+This file is created for Git practice.
