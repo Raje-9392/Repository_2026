@@ -1,0 +1,24 @@
+Git Learning Log
+
+Date: Day 1
+Tool: Git using Command Prompt (CMD)
+
+Today I learned:
+- How to initialize a Git repository
+- How to check file status using git status
+- What untracked files mean
+- How to stage files using git add
+- How to commit changes using git commit
+
+Important notes:
+- Git does not track files automatically
+- Files must be added before committing
+- Commit messages should be clear and meaningful
+
+Next steps:
+- Practice git diff
+- Learn git pull and git fetch
+- Understand branching and merging
+
+This file is created only for learning and practice.
+
