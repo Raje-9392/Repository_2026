@@ -1,0 +1,26 @@
+Branch Notes – Git Practice
+
+This document is created to practice working with branches in Git.
+
+Branch details:
+- main       : Contains stable and merged code
+- Repository : Used for adding and testing new files
+- Newbranch  : Experimental changes
+
+What I learned:
+- Each branch has its own version of files
+- Files created in one branch do not appear in another branch automatically
+- git merge is required to bring files into another branch
+
+Steps practiced:
+1. Switched to Repository branch
+2. Created this text file
+3. Added and committed the file
+4. Switched back to main branch
+5. Merged Repository into main branch
+
+Key reminder:
+- Always commit changes before merging
+- Always checkout the target branch before merge
+
+This file is only for learning and practice.
